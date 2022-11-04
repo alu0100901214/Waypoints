@@ -2,4 +2,4 @@
 
 -> 
 
-![gif](./GIF/Move.gif)
+![gif](./GIF/Waypoints.gif)
